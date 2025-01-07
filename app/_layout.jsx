@@ -43,7 +43,7 @@ export default function App() {
             <View style={styles.bottom_button}>
                 <Text style={styles.button_text}>Welcom!</Text>
                 <Text  style={styles.button}> 
-                    <Text style={{position: 'absolute', left: 15, top: -5, fontSize: 40}}>{'\>'}</Text>    
+                     <Text style={{position: 'absolute', left: 15, top: -5, fontSize: 40}}>{'\>'}</Text>    
                  </Text>
             </View>
         </View>
